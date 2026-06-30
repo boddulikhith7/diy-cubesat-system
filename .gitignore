@@ -1,0 +1,9 @@
+# Arduino / ESP8266 IDE temp files
+.vscode/
+.pio/
+build/
+*.bin
+*.hex
+
+# Local/Private configuration credentials
+firmware/flight_computer/config.h
